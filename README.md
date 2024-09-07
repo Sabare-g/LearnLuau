@@ -5,3 +5,6 @@ Learn Luau coding languge
 <html>
 <button>Ready to learn lua</button>
 </html>
+
+button.Onclick:getDocumentById()
+
